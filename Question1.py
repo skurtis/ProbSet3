@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# IMPORTANT: Make sure that the dataset CO-OPS__8729108__wl.csv is located in the same working directory as the python scripts and Jupyter notebooks.
+
 datafile = open("CO-OPS__8729108__wl.csv") # The CSV file is opened as the variable "datafile"
 
 wmax = 0 # the max water level is initially set to 0
