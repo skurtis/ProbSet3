@@ -1,5 +1,5 @@
-# ProbSet3
-Problem Set 3 Repository
+# Working with Python
+Sarah Kurtis
+University of Florida
+Computational Tools for Research Biology
 
-# Important Note:
-# Please make sure that the original CSV file is located in the same working directory as your code!
