@@ -1,7 +1,5 @@
 # Working with Python and Pandas
-Sarah Kurtis
-University of Florida
-Computational Tools for Research Biology
+Sarah Kurtis | University of Florida | Computational Tools for Research Biology
 ## Calculating Summary Statistics Using Python
 Implementing Question1.py calculates the maximum water level and the date and time at which it was observed (see CSV file) using standard Python commands:
 ```
